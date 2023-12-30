@@ -1,6 +1,6 @@
 # HCL-Meal-Mgt.- - ISF-and-IC-settings
 
-Well tuned profile ISF and meal mgt. in HCL is essential ....  also for transitioning into FCL (see default branch "FCL-book-autoISF" in https://github.com/bernie4375/FCL-potential-autoISF-research-)
+Well tuned profile ISF and meal mgt. in Hybrid Closed Loop (HCL) is essential ....  also for transitioning into Full Closed Loop (FCL) (see default branch "FCL-book-autoISF" in https://github.com/bernie4375/FCL-potential-autoISF-research-)
 
 Disclaimer – Important to read and understand 
 Authors are no medical professionals but T1 diabetics (or parents of a T1D child) who report their -limited - understanding and experience, in an effort to contribute to a growing body of knowledge, and to facilitate development of patient centered solutions. 
@@ -12,5 +12,6 @@ Please observe that a correct basal rate (that keeps you stable at iob and cob n
 Stay connected with your doctor/medical team (even if not knowing enough about your DIY loop they should be experts in setting a correct basal, and also valueable consultant in other issues. 
 
 Please also stay connected, and share experiences, with the DIY looper communities.
+
 
 
