@@ -1,4 +1,4 @@
-# HCL-Meal-Mgt.-ISF-and-IC-settings
+# HCL-Meal-Mgt.- - ISF-and-IC-settings
 
 Well tuned profile ISF and meal mgt. in HCL is essential ....  also for transitioning into FCL (see default branch "FCL-book-autoISF" in https://github.com/bernie4375/FCL-potential-autoISF-research-)
 
