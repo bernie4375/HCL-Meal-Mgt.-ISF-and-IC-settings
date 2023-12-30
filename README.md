@@ -7,9 +7,9 @@ Authors are no medical professionals but T1 diabetics (or parents of a T1D child
 Nothing in this site is medical advice, but meant to stimulate patient-driven self-responsible re-search. Anything you try to conclude for yourself you do on own risk. This is by no means a medical product but what is offered is a toolset for participating in development. 
 Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, can be dangerous.
 
-Please observe that a correct basal rate (that keeps you stable at iob and coib near zero in open loop) is a pre-requisite. Factors (ISF, IC) and other settings would be burdened extra if they have to balance for basal errors, too.
+Please observe that a correct basal rate (that keeps you stable at iob and cob near zero in open loop) is a pre-requisite. Factors (ISF, IC) and other settings would be burdened extra if they have to balance for basal errors, too.
 
-Stay connected with your doctor/medical team (even if not knowing enough about your DIY loop they shoulkd be experts in setting a correct basal, and also valueable consultant in other issues. 
+Stay connected with your doctor/medical team (even if not knowing enough about your DIY loop they should be experts in setting a correct basal, and also valueable consultant in other issues. 
 
 Please also stay connected, and share experiences, with the DIY looper communities.
 
