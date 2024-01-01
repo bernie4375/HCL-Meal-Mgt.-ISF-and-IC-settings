@@ -10,7 +10,7 @@ Never copy what others report to use, but investigate and adjust to your data. N
 Please observe that a correct basal rate (that keeps you stable at iob and cob near zero in open loop) is a pre-requisite. 
 Factors (ISF, IC) and other settings would be burdened extra, if they have to balance for basal errors, too.
 
-Stay connected with your doctor/medical team. (Even if not knowing much about your DIY loop, they should be valueable experts in setting a correct basal, and also valueable consultants in other issues. 
+Stay connected with your doctor/medical team. (Even if not knowing much about your DIY loop, they should be valueable experts in setting a correct basal, and also valueable consultants in other issues). 
 Please also stay connected, and share experiences, with the DIY looper communities.
 
 
