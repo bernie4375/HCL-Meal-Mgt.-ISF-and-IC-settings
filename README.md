@@ -8,7 +8,7 @@ Nothing in this site is medical advice, but it is meant to stimulate patient-dri
 Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, can be dangerous.
 
 Please observe that making your settings should be done step-by-step in this sequence: 1. Set insulin model (time-to-peak, DIA)  2. Set a correct basal rate (that keeps you stable at iob and cob near zero in open loop) 3. Determine your
-Factors (ISF, IC) and other settings 4. Do your Meal Management such that your desired (realistic) %TIR results. Besides an initial meal bolus (and anti-hypo snacks, if needed), try not to interfere with your closed loop  5. Observe if/when you have altered general insulin sebnsitivity (e.g. during and after exercise), and learn to tempoprarily adjhust settings (and/or use Autosens, an Automation, or maybe dynamicISF etc). 
+Factors (ISF, IC) and other settings 4. Do your Meal Management such that your desired (realistic) %TIR results. Besides an initial meal bolus (and anti-hypo snacks, if needed), try not to interfere with your closed loop  5. Observe if/when you have altered general insulin sensitivity (e.g. during and after exercise), and learn to temporarily adjust settings (and/or use Autosens, an Automation, or individually tuned dynamic factors). 
 
 Stable Bluetooth connectivity, reliable CGM values, and selecting/changing cannula sites for reliable insulin delivery is the solid foundation you cannot do without. Resort to bg meter measurements and to using an insulin pen if/when thze necessary conditions are not given!
 
