@@ -7,8 +7,10 @@ Authors are no medical professionals but T1 diabetics (or parents of a T1D child
 Nothing in this site is medical advice, but it is meant to stimulate patient-driven self-responsible re-search. Anything you try to conclude for yourself you do on own risk. This is by no means a medical product, but what is offered is a toolset for participating in development. 
 Never copy what others report to use, but investigate and adjust to your data. Neglecting safety instructions, and just using the “buttons” that are made available in a supposed “learning by doing” mode, can be dangerous.
 
-Please observe that a correct basal rate (that keeps you stable at iob and cob near zero in open loop) is a pre-requisite. 
-Factors (ISF, IC) and other settings would be burdened extra, if they have to balance for basal errors, too.
+Please observe that making your settings should be done step-by-step in this sequence: 1. Set insulin model (time-to-peak, DIA)  2. Set a correct basal rate (that keeps you stable at iob and cob near zero in open loop) 3. Determine your
+Factors (ISF, IC) and other settings 4. Do your Meal Management such that your desired (realistic) %TIR results. Besides an initial meal bolus (and anti-hypo snacks, if needed), try not to interfere with your closed loop  5. Observe if/when you have altered general insulin sebnsitivity (e.g. during and after exercise), and learn to tempoprarily adjhust settings (and/or use Autosens, an Automation, or maybe dynamicISF etc). 
+
+Stable Bluetooth connectivity, reliable CGM values, and selecting/changing cannula sites for reliable insulin delivery is the solid foundation you cannot do without. Resort to bg meter measurements and to using an insulin pen if/when thze necessary conditions are not given!
 
 Stay connected with your doctor/medical team. (Even if not knowing much about your DIY loop, they should be valueable experts in setting a correct basal, and also valueable consultants in other issues). 
 Please also stay connected, and share experiences, with the DIY looper communities.
