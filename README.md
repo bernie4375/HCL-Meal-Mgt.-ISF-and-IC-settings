@@ -1,5 +1,7 @@
 # HCL-Meal-Mgt.- - ISF-and-IC-settings
 
+To access filde, you may need to go to "<> code" on very top left side of this page; if it does not open, go to "raw  / download icon" , and open (e.g. downloaded xls files) from your PC
+
 Well tuned profile ISF and meal management in Hybrid Closed Loop (HCL) is essential ....  also for transitioning to Full Closed Loop (FCL) (see default branch "FCL-book-autoISF" in https://github.com/bernie4375/FCL-potential-autoISF-research-)
 
 Disclaimer – Important to read and understand. - 
