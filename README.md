@@ -1,6 +1,4 @@
-# HCL-Meal-Mgt.- - ISF-and-IC-settings - VERSION IN WORD FORMATS <- THIS MIGHT NOT BE UP-TO-DATE - USE DEFAULT "HCL...settings" PDF BRANCH - ..
-
-Documents are given in WORD format here,
+HCL ... settings; primarily uise default pdf versions! - Here documents are given in WORD format,
 
     for easier translations,
     or if you wish to use parts of the text in a paper you are preparing
