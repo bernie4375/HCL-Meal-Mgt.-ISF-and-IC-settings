@@ -8,5 +8,5 @@ HCL ... settings; primarily please use default pdf versions ! - Here, documents 
 
 Note 1: YOU are responsible to periodically read the English pdf original for eventual changes made: Important ones might need to be carried into your version, too
 
-Note 2: Apologies that the word versions are often quite a patchwork of iunsertions and quick fixes (like putting an invisible white box over something and other little fun surprises... - the author is no pro at formatting, sorry)
+Note 2: Apologies that the word or ppt versions can be quite a patchwork of insertions and quick fixes (like putting an invisible white box over something to disappear, and other little fun surprises... - The main author just is no pro at formatting, and enjoys any quick DIY fix to get to the desired pdf)
 
