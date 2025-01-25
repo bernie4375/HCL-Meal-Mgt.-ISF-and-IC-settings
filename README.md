@@ -1,4 +1,4 @@
-# HCL-Meal-Mgt.-& settings
+# HCL-Meal-Mgt.-& Settings
 
 *This is a repository of documents that support setting up a well-performing Hybrid Closed Loop. To access files, you may need to go to "<> code" on very top left side of this page; if the selected file does not open, go to  "raw  / download icon" , and open (e.g. downloaded xls files) from your PC*
 
